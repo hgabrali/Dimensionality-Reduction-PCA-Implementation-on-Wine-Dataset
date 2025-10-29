@@ -4,7 +4,7 @@
 
 * A Masterschool Unsupervised Learning Mini-Project
 
-## 🔬 Project Overview
+## 🔬 Project Overview 
 
 This repository documents a foundational exercise in **Dimensionality Reduction** using **Principal Component Analysis (PCA)**. The objective is to distill a complex, high-dimensional chemical dataset into a minimal set of components to facilitate visualization and rigorously analyze information preservation.
 
