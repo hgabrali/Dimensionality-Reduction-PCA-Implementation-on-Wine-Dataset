@@ -47,3 +47,5 @@ This step involves initializing the PCA model and projecting the standardized da
 
 * **Extended Reduction:** Re-run the PCA with **`n_components=5`**.
 * **Comparative Analysis:** Calculate the new cumulative explained variance ratio. The analysis compares the trade-off: **how much additional information is captured by the 5 PCs compared to the efficiency of using only 2 PCs?**
+
+[Colab: Dimensionality Reduction: PCA Implementation on Wine Dataset](https://colab.research.google.com/drive/13leNyzFgqWpKQSI3E1ST9K-EUliUA1fz#scrollTo=BDH40K8a_pz_)
